@@ -1,4 +1,5 @@
 # nacos/nacos-server:v2.3.1
 # mysql:9.0.0
 # mysql:8.4
-mysql:5.7.37
+# mysql:5.7.37
+common/redis:6.2
